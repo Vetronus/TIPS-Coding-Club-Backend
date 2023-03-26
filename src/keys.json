@@ -1,0 +1,27 @@
+{
+    "name": "NEM Stack",
+    "key": "nem_key",
+    "id": "nem",
+    "port": 6000,
+    "api": "api.example.com",
+    "shared_hosting": false,
+
+    "rzp_id": "rzp_live_key",
+    "rzpt_id": "rzp_test_key",
+    "rzp_sec": "SECRET",
+    "rzpt_sec": "SECRET",
+    "partner_tid": "rzp_partner_test_id",
+    "partner_tsec": "rzp_partner_test_secret",
+    "partner_id": "rzp_partner_id",
+    "partner_sec": "rzp_partner_secret",
+
+    "p_db": "Production_Database_URI",
+    "d_db": "Debug_Database_URI",
+
+    "s3_bucket": "mediaobject",
+    "s3_id": "S3_ID",
+    "s3_key": "S3_KEY",
+
+    "letsencrypt_path": "/etc/letsencrypt/live/",
+    "tz": "Asia/Kolkata"
+}
